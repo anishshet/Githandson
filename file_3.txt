@@ -6,3 +6,6 @@ update file 3
 
 
 another update for purple 
+
+
+fixing for git reset
